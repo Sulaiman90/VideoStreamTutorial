@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri May 26 18:05:00 IST 2017
+2.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_73242d5db16dd5755bdbbc1d6725261e24a12d70
+5.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_85cfe4dcb722db96a1a9904ac5e2a4de45a75a9a
+6.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_main.xml
+2.set=DEX
+4.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\videoview_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_73242d5db16dd5755bdbbc1d6725261e24a12d70\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_85cfe4dcb722db96a1a9904ac5e2a4de45a75a9a\\classes.dex
+3.set=DEX
+1.base=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Software\\Works\\VideoStreamTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
